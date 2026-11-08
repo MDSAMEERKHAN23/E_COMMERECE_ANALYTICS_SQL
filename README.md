@@ -71,3 +71,5 @@ The project contains six tables:
 ### Sales Performance Analysis
 - What is the total revenue generated?
 - What is the total profit?
+
+LINK: https://github.com/MDSAMEERKHAN23/E_COMMERECE_ANALYTICS_SQL/blob/main/e_commerce_sales_analysis.sql
